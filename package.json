@@ -1,0 +1,14 @@
+{
+  "name": "backup-all-repositories",
+  "version": "1.0.0",
+  "description": "Backup all repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "github-api": "3.4.0"
+  }
+}
