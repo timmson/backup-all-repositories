@@ -1,6 +1,6 @@
 {
   "name": "backup-all-repositories",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backup all repositories",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "github-api": "3.4.0"
+    "axios": "^npm 1.6.5"
   }
 }
